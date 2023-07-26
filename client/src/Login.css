@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right, rgb(56, 57, 57) , rgb(22, 23, 78));
+    background-image: linear-gradient(to right, rgb(133, 178, 178) , rgb(22, 23, 78));
 
 }
 .he_1{
@@ -14,7 +14,7 @@ body{
 }
 .cont_1{
     position: relative;
-    background-image: linear-gradient(to right, rgb(52, 60, 64) , rgb(0, 1, 74));
+    background-image: linear-gradient(to right, rgb(52, 60, 64) ,rgb(133, 178, 178));
     align-items: center;
     justify-content: center;   
     /* display: inline-flex; */
@@ -36,7 +36,7 @@ body{
     align-content: center;
     justify-content: center; 
     text-align: center;
-    background-image: linear-gradient(to right, rgb(60, 52, 61) , rgb(8, 11, 61));
+    background-image: linear-gradient(to right, rgb(76, 112, 178) , rgb(63, 69, 197));
     line-height: 50px;
     height: fit-content;
     border: none;
